@@ -1,0 +1,19 @@
+{
+    "name": "GangBot",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a9681149b4563f449b206e0894f8a200",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:207d2407285e21542b1bfbb426261667",
+        "GUID:524e1566d5711b44d9b62608e1592e6f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

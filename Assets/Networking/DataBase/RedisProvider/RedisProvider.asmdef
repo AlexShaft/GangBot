@@ -1,0 +1,22 @@
+{
+    "name": "RedisProvider",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9d6c7830d9ab746a7a12f144bdeeee7c",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:207d2407285e21542b1bfbb426261667",
+        "GUID:524e1566d5711b44d9b62608e1592e6f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "StackExchange.Redis.dll",
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

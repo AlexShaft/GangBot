@@ -1,0 +1,16 @@
+{
+    "name": "Discord",
+    "rootNamespace": "",
+    "references": [
+        "GUID:524e1566d5711b44d9b62608e1592e6f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
